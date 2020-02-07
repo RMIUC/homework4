@@ -53,11 +53,11 @@ nav a:hover{
  /*Your code here - position relative to the parent */
   /*Your code here - place 40px higher */
 }
-
+/* 
 a:focus{
   border: 2px solid black;
 
-}
+} */
 /*Your code here*/
 /*Add the selector and rule to move the skip
 link to the exact top of the page.*/
